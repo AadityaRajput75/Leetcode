@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadityaRajput75/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0053-maximum-subarray) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRajput75/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRajput75/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRajput75/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
