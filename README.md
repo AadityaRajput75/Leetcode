@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AadityaRajput75/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/AadityaRajput75/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRajput75/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRajput75/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
 | ------- |
