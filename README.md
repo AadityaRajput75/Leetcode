@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AadityaRajput75/Leetcode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/AadityaRajput75/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/AadityaRajput75/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/AadityaRajput75/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/AadityaRajput75/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AadityaRajput75/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AadityaRajput75/Leetcode/tree/master/0724-find-pivot-index) |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AadityaRajput75/Leetcode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/AadityaRajput75/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AadityaRajput75/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AadityaRajput75/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AadityaRajput75/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AadityaRajput75/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
