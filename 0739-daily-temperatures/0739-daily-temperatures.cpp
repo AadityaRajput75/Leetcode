@@ -2,20 +2,22 @@ class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
        int n = temperatures.size();
-        std::vector<int> answer(n, 0);
-        std::stack<int> st; // Stores indices of days
-
-        for (int i = 0; i < n; ++i) {
-            // Process all days in the stack that are colder than today's temperature
-            while (!st.empty() && temperatures[i] > temperatures[st.top()]) {
-                int prev_day = st.top();
+        vector<int>ans(n);
+        stack<int>st;
+        ans[n-1]=0;
+        st.push(n-1);
+        for(int i=n-2;i>=0;i--){
+            while(!st.empty() && temperatures[st.top()]<=temperatures[i]){
                 st.pop();
-                answer[prev_day] = i - prev_day;
+            }
+            if(st.empty()){
+                ans[i]=0;
+            }
+            else{
+                ans[i]=st.top()-i;
             }
             st.push(i);
         }
-
-        return answer;
-        
+        return ans;
     }
 };
